@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-image-colors/ios/ImageColors-Bridging-Header.h

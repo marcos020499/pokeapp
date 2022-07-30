@@ -1,0 +1,6 @@
+module RNImageColors {
+  umbrella header "RNImageColors-umbrella.h"
+
+  export *
+  module * { export * }
+}

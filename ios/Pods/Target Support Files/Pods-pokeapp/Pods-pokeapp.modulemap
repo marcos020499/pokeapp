@@ -1,0 +1,6 @@
+module Pods_pokeapp {
+  umbrella header "Pods-pokeapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
