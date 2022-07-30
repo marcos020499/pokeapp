@@ -39,6 +39,7 @@ IMPORTANT:
   - Install your preferred wallet on your device: (Metamask, Trust Wallet etc..)
 
 - IOS:
+  - First, you need to open pokeapp/ios/pokeapp.xcworkspace in your XCODE, you need to compile the app and choose a simulator to run the app. watch the example video https://youtu.be/ifIkIdonfXk
   - Command 
     `react-native run-ios` for react-native-cli package users or 
     `npx react-native run-ios` if you're using the latest recommended version of node.js
